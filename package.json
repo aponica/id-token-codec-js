@@ -1,0 +1,33 @@
+{
+  "name": "@aponica/id-token-codec-js",
+  "version": "3.0.0",
+  "description": "Encode/decode IDs and a token to/from a string.",
+  "homepage" : "https://aponica.com/docs/id-token-codec-js",
+  "funding": "https://www.paypal.com/biz/fund?id=BEHTAS8WARM68",
+  "keywords": [
+    "encode",
+    "decode",
+    "id",
+    "token"
+  ],
+  "main": "./index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "doc": "node ./node_modules/.bin/jsdoc -c jsdoc.conf.json",
+    "test": "node ./node_modules/.bin/jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aponica/id-token-codec-js.git"
+  },
+  "author": "Opplaud LLC <dev.support@aponica.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@aponica/jsdoc-plugin-linecomments": "^1.1.1",
+    "jest": "^26.4.2",
+    "jsdoc": "^3.6.6"
+  }
+}
