@@ -94,7 +94,7 @@ Official links for this project:
 
 * [Home Page & Online Documentation](https://aponica.com/docs/id-token-codec-js/)
 * [GitHub Repository](https://github.com/aponica/id-token-codec-js)
-* [Packagist](https://packagist.org/packages/aponica/id-token-codec-js)
+* [NPM Package](https://www.npmjs.com/package/@aponica/id-token-codec-js)
   
 Related projects:
 
