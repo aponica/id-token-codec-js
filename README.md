@@ -98,4 +98,4 @@ Official links for this project:
   
 Related projects:
 
-* [PHP Version (aponica/id-token-codec-js)](https://aponica.com/docs/id-token-codec-php/)
+* [PHP Version (aponica/id-token-codec-php)](https://aponica.com/docs/id-token-codec-php/)
